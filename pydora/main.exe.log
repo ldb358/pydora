@@ -1,0 +1,10 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "classes\ui.pyc", line 122, in time
+  File "classes\ui.pyc", line 148, in do_command
+  File "classes\ui.pyc", line 127, in media_refresh
+  File "classes\gui.pyc", line 49, in media_controls
+  File "classes\PIL\Image.pyc", line 1952, in open
+IOError: [Errno 2] No such file or directory: 'coverArt-large.jpg'

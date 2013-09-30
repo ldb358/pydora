@@ -1,0 +1,62 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 63, in button_callback
+  File "classes\player.pyc", line 71, in skip
+  File "classes\player.pyc", line 36, in play
+  File "classes\ui.pyc", line 36, in oos
+  File "classes\pandora.pyc", line 96, in get_songs
+  File "classes\pandora.pyc", line 89, in get_playlist
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 68, in button_callback
+  File "classes\ui.pyc", line 132, in stations_refresh
+  File "classes\pandora.pyc", line 73, in get_stations
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 68, in button_callback
+  File "classes\ui.pyc", line 132, in stations_refresh
+  File "classes\pandora.pyc", line 73, in get_stations
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 68, in button_callback
+  File "classes\ui.pyc", line 132, in stations_refresh
+  File "classes\pandora.pyc", line 73, in get_stations
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 68, in button_callback
+  File "classes\ui.pyc", line 132, in stations_refresh
+  File "classes\pandora.pyc", line 73, in get_stations
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 68, in button_callback
+  File "classes\ui.pyc", line 132, in stations_refresh
+  File "classes\pandora.pyc", line 73, in get_stations
+TypeError: 'bool' object has no attribute '__getitem__'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "classes\gui.pyc", line 37, in <lambda>
+  File "classes\ui.pyc", line 63, in button_callback
+  File "classes\player.pyc", line 71, in skip
+  File "classes\player.pyc", line 36, in play
+  File "classes\ui.pyc", line 36, in oos
+  File "classes\pandora.pyc", line 96, in get_songs
+  File "classes\pandora.pyc", line 89, in get_playlist
+TypeError: 'bool' object has no attribute '__getitem__'
